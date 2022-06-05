@@ -1,32 +1,15 @@
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GNU License][license-shield]][license-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/CodedRed-Spigot/AdvancedHelp">
-     <img src="logo.png" alt="Logo" width="750" height="500">
-  </a>
-
   <h3 align="center">AdvancedHelp</h3>
 
   <p align="center">
     Custom /Help command, includes multiple pages, categories and GUI!
     <br />
-    <a href="https://github.com/CodedRed-Spigot/AdvancedHelp"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://www.spigotmc.org/resources/advancedhelp-custom-help-pages-with-gui.44478/">View Demo</a>
+    <a href="https://github.com/HappyAreaBean/AdvancedHelp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/CodedRed-Spigot/AdvancedHelp/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/CodedRed-Spigot/AdvancedHelp/issues">Request Feature</a>
+    <a href="https://github.com/HappyAreaBean/AdvancedHelp/issues">Request Feature</a>
   </p>
 </p>
 
@@ -84,7 +67,7 @@ _Please refer to the [Documentation](https://www.spigotmc.org/resources/advanced
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/CodedRed-Spigot/AdvancedHelp/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/HappyAreaBean/AdvancedHelp/issues) for a list of proposed features (and known issues).
 
 
 
@@ -114,29 +97,11 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- Credits -->
+## Credits
 
-CodedRed - [@twitter](https://twitter.com/devcodedred) - devcodedred@gmail.com
+- Original plugin author:
+  - CodedRed |
+    [@twitter](https://twitter.com/devcodedred) [@spigotmc](https://www.spigotmc.org/resources/authors/codedred.421005/) - CodedRed#0900 - devcodedred@gmail.com
 
-[@spigotmc](https://www.spigotmc.org/resources/authors/codedred.421005/)
-Discord: CodedRed#0900
-
-Project Link: [https://github.com/CodedRed-Spigot/AdvancedHelp](https://github.com/CodedRed-Spigot/AdvancedHelp)
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/CodedRed-Spigot/AdvancedHelp.svg?style=for-the-badge
-[contributors-url]: https://github.com/CodedRed-Spigot/AdvancedHelp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/CodedRed-Spigot/AdvancedHelp.svg?style=for-the-badge
-[forks-url]: https://github.com/CodedRed-Spigot/AdvancedHelp/network/members
-[stars-shield]: https://img.shields.io/github/stars/CodedRed-Spigot/AdvancedHelp.svg?style=for-the-badge
-[stars-url]: https://github.com/CodedRed-Spigot/AdvancedHelp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/CodedRed-Spigot/AdvancedHelp.svg?style=for-the-badge
-[issues-url]: https://github.com/CodedRed-Spigot/AdvancedHelp/issues
-[license-shield]: https://img.shields.io/github/license/CodedRed-Spigot/AdvancedHelp.svg?style=for-the-badge
-[license-url]: https://github.com/CodedRed-Spigot/AdvancedHelp/blob/master/LICENSE.txt
+Project Link: [https://github.com/HappyAreaBean/AdvancedHelp](https://github.com/HappyAreaBean/AdvancedHelp)
