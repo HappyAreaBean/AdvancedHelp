@@ -1,10 +1,8 @@
 package me.codedred.advancedhelp.commands;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
+import me.codedred.advancedhelp.Main;
+import me.codedred.advancedhelp.menus.Menu;
 import me.codedred.advancedhelp.utils.MessageUtil;
-import net.kyori.adventure.audience.Audience;
 import net.kyori.adventure.platform.bukkit.BukkitAudiences;
 import net.kyori.adventure.text.minimessage.MiniMessage;
 import org.bukkit.Bukkit;
@@ -19,9 +17,8 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerCommandPreprocessEvent;
 
-import me.codedred.advancedhelp.Main;
-import me.codedred.advancedhelp.menus.Menu;
-import me.codedred.advancedhelp.utils.PlaceholdersUtil;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class Help implements CommandExecutor, Listener {
 	
