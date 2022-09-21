@@ -13,7 +13,7 @@ compileTestJava.options.encoding = "UTF-8"
 sourceCompatibility = JavaVersion.VERSION_1_8
 targetCompatibility = JavaVersion.VERSION_1_8
 
-String libsPackage = getGroup() + ".libs"
+String libsPackage = "me.codedred.advancedhelp.libs"
 
 
 bukkit {
@@ -111,7 +111,6 @@ dependencies {
 shadowJar {
     archiveBaseName.set('AdvancedHelp')
     archiveClassifier.set('')
-    archiveVersion.set('')
 
     relocate 'net.kyori', libsPackage + ".kyori"
     relocate 'org.jetbrains', libsPackage + ".jetbrains"
